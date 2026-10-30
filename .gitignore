@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+*.rbxl.lock
+*.rbxlx.lock
+*.autosave
+.env
+.env.*
+!.env.example
